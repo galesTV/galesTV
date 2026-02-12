@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/galesTV?style=flat&color=blueviolet&logo=github" />
-  <img title="Github Member" alt="Github Member" align="right" src="https://badges.strrl.dev/contributions/all/galesTV?color=blueviolet" />
+  <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/galesTV?style=flat&color=blue&logo=github" />
+  <img title="Github Member" alt="Github Member" align="left" src="https://badges.strrl.dev/contributions/all/galesTV?color=blue" />
   <img src="https://github-readme-stats.vercel.app/api?username=galesTV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galesTV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
