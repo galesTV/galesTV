@@ -3,6 +3,8 @@
 ###
 
 <div align="center">
+  <img title="Github Yearly commits" alt="Github Yearly" align="left" src="https://badges.strrl.dev/years/galesTV?style=flat&color=blueviolet&logo=github" />
+  <img title="Github Member" alt="Github Member" align="right" src="https://badges.strrl.dev/contributions/all/galesTV?color=blueviolet" />
   <img src="https://github-readme-stats.vercel.app/api?username=galesTV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galesTV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -60,11 +62,11 @@
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
@@ -81,14 +83,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" 
 />
 <img 
     align="left" 
