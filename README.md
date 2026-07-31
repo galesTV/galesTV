@@ -39,12 +39,14 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
     <td align="center" valign="top" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" title="HTML5"/> <br/><sub>HTML5</sub><br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" title="CSS3"/> <br/><sub>CSS3</sub><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" title="React"/> <br/><sub>React</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" title="React"/> <br/><sub>React</sub><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/> <br/><sub>Next.js</sub><br/><br/>
     </td>
     <!-- Back-end -->
     <td align="center" valign="top" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/> <br/><sub>Node.js</sub><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="30" title="NestJS"/> <br/><sub>NestJS</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="30" title="NestJS"/> <br/><sub>NestJS</sub><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" title="Express"/> <br/><sub>Express</sub><br/><br/>
     </td>
     <!-- Databases & ORM -->
     <td align="center" valign="top" style="border: none;">
@@ -63,7 +65,8 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
     <!-- DevOps & Tools -->
     <td align="center" valign="top" style="border: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" title="Docker"/> <br/><sub>Docker</sub><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" title="Postman"/> <br/><sub>Postman</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" title="Postman"/> <br/><sub>Postman</sub><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" title="Git"/> <br/><sub>Git</sub><br/><br/>
     </td>
   </tr>
 </table>
