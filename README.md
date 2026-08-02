@@ -95,7 +95,10 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
   <a href="https://www.linkedin.com/in/gael-guzmannn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/gael.guzmannn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
+  <a href="mailto:gaelleiteguzman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="email logo" />
+  </a>
+  <a href="https://gaelguzman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111112?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="instagram logo" />
   </a>
 </div>
