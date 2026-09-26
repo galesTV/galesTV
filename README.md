@@ -8,8 +8,8 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
 - ⚙️ **Exploring:** Automation tools, CI/CD pipelines, and workflow optimization.
 
 <div align="center">
-  <img title="Github Yearly commits" alt="Github Yearly" src="https://badges.strrl.dev/years/galesTV?style=flat&color=2ecc71&logo=github" />
-  <img title="Github Member" alt="Github Member" src="https://badges.strrl.dev/contributions/all/galesTV?color=3498db" /> 
+  <img title="Github Yearly commits" alt="Github Yearly" src="https://badges.strrl.dev/years/gael-guzman?style=flat&color=2ecc71&logo=github" />
+  <img title="Github Member" alt="Github Member" src="https://badges.strrl.dev/contributions/all/gael-guzman?color=3498db" /> 
 </div>
 
 ---
