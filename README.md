@@ -76,15 +76,15 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=galesTV&show_icons=true&include_all_commits=true&theme=dark"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=galesTV&layout=compact&langs_count=6&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=gael-guzman&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gael-guzman&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/galesTV/galesTV/output/snake.svg" alt="Snake animation" width="80%" />
+  <img src="https://raw.githubusercontent.com/gael-guzman/gael-guzman/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
 ---
