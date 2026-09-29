@@ -8,8 +8,8 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
 - ⚙️ **Exploring:** Automation tools, CI/CD pipelines, and workflow optimization.
 
 <div align="center">
-  <img title="Github Yearly commits" alt="Github Yearly" src="https://badges.strrl.dev/years/gael-guzman?style=flat&color=2ecc71&logo=github" />
-  <img title="Github Member" alt="Github Member" src="https://badges.strrl.dev/contributions/all/gael-guzman?color=3498db" /> 
+  <img title="Github Yearly commits" alt="Github Yearly" src="https://badges.strrl.dev/years/galesTV?style=flat&color=2ecc71&logo=github" />
+  <img title="Github Member" alt="Github Member" src="https://badges.strrl.dev/contributions/all/galesTV?color=3498db" /> 
 </div>
 
 ---
@@ -33,7 +33,8 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/> <br/><sub>JavaScript</sub><br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/> <br/><sub>TypeScript</sub><br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" title="PHP"/> <br/><sub>PHP</sub><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" title="Java"/> <br/><sub>Java</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" title="Java"/> <br/><sub>Java</sub><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python"/> <br/><sub>Python</sub>
     </td>
     <!-- Front-end -->
     <td align="center" valign="top" style="border: none;">
@@ -47,6 +48,7 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/> <br/><sub>Node.js</sub><br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="30" title="NestJS"/> <br/><sub>NestJS</sub><br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" title="Express"/> <br/><sub>Express</sub><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30" title="FastAPI"/> <br/><sub>FastAPI</sub><br/><br/>
     </td>
     <!-- Databases & ORM -->
     <td align="center" valign="top" style="border: none;">
@@ -76,15 +78,15 @@ I am a **Back-end Developer** focused on software architecture, databases, and b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=gael-guzman&show_icons=true&include_all_commits=true&theme=dark"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gael-guzman&layout=compact&langs_count=6&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=galesTV&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=galesTV&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/gael-guzman/gael-guzman/output/snake.svg" alt="Snake animation" width="80%" />
+  <img src="https://raw.githubusercontent.com/galesTV/galesTV/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
 ---
